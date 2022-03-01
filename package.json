@@ -1,0 +1,10 @@
+{
+  "name": "stone_bleed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Riyadh Uddin <noreplythnx@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.8.4"
+  }
+}
